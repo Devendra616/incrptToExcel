@@ -5,3 +5,7 @@ package-lock.json
 
 ## Environment files
 .env
+
+## output file
+*.xlsx
+*.xls
