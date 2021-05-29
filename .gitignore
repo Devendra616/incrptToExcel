@@ -9,3 +9,4 @@ package-lock.json
 ## output file
 *.xlsx
 *.xls
+*.txt
